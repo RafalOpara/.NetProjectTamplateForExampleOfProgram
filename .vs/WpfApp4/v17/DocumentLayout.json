@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PROGRAMOWANIE\\.net-kursUdemy\\ConsoleApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7D561A2-8EA2-42C1-9FCB-6C56720F832D}|WpfApp2\\WpfApp4.csproj|e:\\programowanie\\.net-kursudemy\\consoleapp2\\wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D561A2-8EA2-42C1-9FCB-6C56720F832D}|WpfApp2\\WpfApp4.csproj|solutionrelative:wpfapp2\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{761E0CAC-8C5C-47F5-B3DD-277C359E8613}|WpfApp4.Database\\WpfApp4.Database.csproj|e:\\programowanie\\.net-kursudemy\\consoleapp2\\wpfapp4.database\\datastoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{761E0CAC-8C5C-47F5-B3DD-277C359E8613}|WpfApp4.Database\\WpfApp4.Database.csproj|solutionrelative:wpfapp4.database\\datastoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataStoreManager.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\.net-kursUdemy\\ConsoleApp2\\WpfApp4.Database\\DataStoreManager.cs",
+              "RelativeDocumentMoniker": "WpfApp4.Database\\DataStoreManager.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\.net-kursUdemy\\ConsoleApp2\\WpfApp4.Database\\DataStoreManager.cs",
+              "RelativeToolTip": "WpfApp4.Database\\DataStoreManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:58:41.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "E:\\PROGRAMOWANIE\\.net-kursUdemy\\ConsoleApp2\\WpfApp2\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WpfApp2\\App.xaml.cs",
+              "ToolTip": "E:\\PROGRAMOWANIE\\.net-kursUdemy\\ConsoleApp2\\WpfApp2\\App.xaml.cs",
+              "RelativeToolTip": "WpfApp2\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T17:55:05.62Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

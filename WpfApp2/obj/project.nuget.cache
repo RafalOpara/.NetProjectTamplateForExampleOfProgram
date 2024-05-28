@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "t54n7q+U7Nk=",
+  "success": true,
+  "projectFilePath": "E:\\PROGRAMOWANIE\\.net-kursUdemy\\ConsoleApp2\\WpfApp2\\WpfApp4.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Raffael\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\Raffael\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
